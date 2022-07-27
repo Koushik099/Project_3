@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Red+Rose:wght@300;400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  font-family: "Red Rose", cursive;
+}
+
+body {
+  overflow: hidden;
+}
+.navbar {
+  height: 20vh;
+  width: 100%;
+  background-color: #120f04de;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar img {
+  margin-left: 110px;
+  height: 50px;
+  width: 130px;
+}
+
+.button-small {
+  margin-right: 110px;
+  padding: 13px 20px;
+  border: 1.5px solid #8d7e32;
+  border-radius: 10px;
+  font-size: 17px;
+  color: #8d7e32;
+  background-color: transparent;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.list {
+  display: flex;
+  margin-left: 170px;
+}
+.list li:nth-child(1) {
+  color: white;
+}
+.list li {
+  color: #a09e96;
+  padding: 10px 20px;
+  font-size: 22px;
+}
+.list li:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.hero {
+  height: 37vh;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #120f04de;
+}
+
+.hero h1 {
+  font-size: 64px;
+  margin-left: 110px;
+  /* margin-top: 41px; */
+  color: white;
+}
+
+.hero p {
+  color: #a09e96;
+  font-size: 20px;
+  margin-right: 110px;
+  /* margin-top: 65px; */
+}
+
+.footer-bg img {
+  height: 283px;
+  width: 100vw;
+}
