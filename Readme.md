@@ -1,4 +1,4 @@
-# This is the Fourth Project.
+# This is the third Project.
 
 I gave lots of effort to complete this landing page. Using CSS3 & HTML5, The new Utilities.
 
@@ -6,7 +6,7 @@ I gave lots of effort to complete this landing page. Using CSS3 & HTML5, The new
 
 ![Project-03](Overview.png)
 
-# View this Project On Netlify, Here is the LInk.
+# View this Project On Netlify, Here is the Link.
 
 **[DemandJustice](https://demandjustice.netlify.app/)**
 
